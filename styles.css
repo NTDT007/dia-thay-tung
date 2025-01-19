@@ -1,0 +1,18 @@
+table {
+    margin: auto;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+body {
+    margin: 0; /* Xóa khoảng trống mặc định */
+    height: 100vh; /* Đảm bảo chiều cao chiếm toàn màn hình */
+    background-size: cover; /* Lấp đầy màn hình nhưng không méo */
+    background-position: center; /* Căn giữa ảnh */
+    background-repeat: no-repeat; /* Không lặp lại ảnh */
+    background-attachment: fixed; /* Cố định ảnh khi cuộn trang */
+    background-image: url(https://cdn.donmai.us/original/eb/7d/__original_drawn_by_sakais3211__eb7d8b34a8be7af37956ae030fbd3a7a.jpg);
+}
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
